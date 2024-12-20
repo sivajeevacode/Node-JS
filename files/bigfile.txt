@@ -1,0 +1,93 @@
+notes:
+
+background-color: #0080e8;
+
+em size -  based on the parent element ( font size * 16px)
+
+rem  size - based on the root element ( html)  ( font size *24px)
+
+__________________________________________________________
+
+font awesome:
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+Google fonts:
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+                 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+
+                  font-family:"Poppins", sans-serif;
+
+google sheet connect:
+
+https://github.com/jamiewilson/form-to-google-sheets
+_____________________________________________________________
+
+	online tutorials 
+	
+	front end forever
+
+	tutor joes css video and free bootcamp video
+
+	front end mentor practice
+
+	modern css
+
+	css cheat sheet
+
+	{ above source practice html,css }
+
+	
+______________________________________________________________
+
+	{ javascript learn & practice }
+
+	cyber dude channel
+
+	tamil hacks channel
+
+	logic first tamil channel
+
+	w3 school
+
+	javacript course with certificate
+
+	tutor joes  js course
+
+____________________________________________________________
+
+
+	JAVASCRIPT  30 projects
+
+	
+	my portfolio 
+
+
+	E comerce websites
+
+
+	social media clones
+
+_____________________________________________________________
+	
+	{ Coming Learn Course }
+	
+	react js
+
+	API with aximos ( crud operation )
+
+	bootstrap
+
+	tailwind css
+
+			
+______________________________________________________________
+	
+	jquerry
+
+	php
+
+______________________________________________________________
